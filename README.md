@@ -7,3 +7,4 @@ ccccc
 あああ
 いいい
 ううう
+working repository for git article
