@@ -9,3 +9,4 @@ ccccc
 ううう
 working repository for git article
 - [x] update readme
+- [x] default branch
