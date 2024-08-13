@@ -8,3 +8,4 @@ ccccc
 いいい
 ううう
 working repository for git article
+- [x] update readme
