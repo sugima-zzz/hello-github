@@ -12,3 +12,4 @@ working repository for git article
 - [x] default branch
 - [x] **epic branch**
 - [x] pull request template
+- [x] add pull request to project
