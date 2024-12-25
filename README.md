@@ -6,7 +6,7 @@ bbbbb
 ccccc
 あああ
 いいい
-うう
+う
 working repository for git article
 - [x] update readme
 - [x] default branch
