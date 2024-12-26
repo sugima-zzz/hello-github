@@ -6,6 +6,7 @@ bbbbb
 ccccc
 あああ
 いいい
+
 う
 working repository for git article
 - [x] update readme
