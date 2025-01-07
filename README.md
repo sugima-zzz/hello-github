@@ -5,7 +5,7 @@ aaaaa
 bbbbb
 ccccc
 あああ
-いい
+い
 
 う
 working repository for git article
