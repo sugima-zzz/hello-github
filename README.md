@@ -4,7 +4,7 @@ this is repositry to try github feature.
 aaaaa
 bbbbb
 ccccc
-ああ
+あ
 い
 
 う
