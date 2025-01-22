@@ -2,7 +2,7 @@
 this is repositry to try github feature.
 いつも大変お世話になっております。
 aa
-bbb
+bb
 cc
 あ
 い
