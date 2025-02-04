@@ -6,7 +6,7 @@ aa<br>
 bb<br>
 cc<br>
 あ<br>
-い
+い<br>
 
 う
 working repository for git article
