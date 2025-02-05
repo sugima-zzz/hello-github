@@ -7,8 +7,8 @@ bb<br>
 cc<br>
 あ<br>
 い<br>
-
 う
+
 working repository for git article
 - [x] update readme
 - [x] default branch
