@@ -7,7 +7,7 @@ bb<br>
 cc<br>
 あ<br>
 い<br>
-う<br>
+う
 
 working repository for git article
 - [x] update readme
